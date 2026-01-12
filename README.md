@@ -1,5 +1,18 @@
 # Photo Match
 
+
+<div align="center">
+
+### ☕ Support This Project
+
+If this project helped you or saved you time, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/w6ZhBSGX2)
+
+*Your support helps maintain this project and create more learning resources!* ❤️
+
+</div>
+
 Photo Match is an Android application that allows users to find similar faces from their gallery using machine learning. The app uses FaceNet for facial recognition and the ML Kit Face Detection API to detect faces. You can capture your photo and the app will search through your gallery to find similar faces using **Cosine Similarity**.
 
 ## Features
